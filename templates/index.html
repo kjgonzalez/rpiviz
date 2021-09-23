@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h1> {{analysis_title}}</h1>
+    <p> {% for para in info %}
+        <p>{{para}}</p>
+        {% endfor %}</p>
+    <p><a href="{{ data }}">textfile</a></p>
+    <img src="{{ img }}" alt="(did you put static/ in path?)">
+    <p>------------------------------</p>
+    <p>Links:</p>
+    <p><a href="/status">status</a></p>
+</body>
+</html>

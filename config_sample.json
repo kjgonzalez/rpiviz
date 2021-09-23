@@ -1,0 +1,19 @@
+{
+  "note1": "COPY THIS FILE TO static/, then run",
+  "note2": "THIS ONLY SERVES AS AN EXAMPLE FOR WHAT SHOULD BE EXPORTED TO static/",
+  "critical_fields": [
+    "title",
+    "info (str or array)",
+    "imgpath",
+    "datpath",
+    "hwname",
+    "purpose",
+    "NOTE: ignore 'note' and 'critical_fields' entries"
+  ],
+  "title": "SampleTitle",
+  "info": ["data1: 10m/s","data2: 10 degrees"],
+  "imgpath": "static/img.webp",
+  "datpath": "static/dat.csv",
+  "hwname": "rpi",
+  "purpose": "this is a sample file"
+}

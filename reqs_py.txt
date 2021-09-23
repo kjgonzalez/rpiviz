@@ -1,0 +1,3 @@
+# originally developed with Py3.7
+Flask==2.0.1 # note: this installs other necessary modules as well
+waitress==2.0.0
