@@ -4,6 +4,8 @@ TODO functionality tests
 TODO add other info pages
 TODO think of other bits of info to add
 TODO find way to make waitress properly output data instead of needing to do it self
+TODO create setup instructions
+TODO create setup script (rpi-specific)
 
 Miscellaneous notes:
 * don't ever link a full path, the user's browser won't understand

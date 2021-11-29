@@ -1,0 +1,6 @@
+initial steps: 
+clone repo
+run setup: 
+    create venv
+    install reqs
+    make cron job
